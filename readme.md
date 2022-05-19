@@ -14,7 +14,7 @@ Here i'm learing python opencv library so, in each main.py file different techni
 
 main-1.py
 --------
-A motion detection With less than 10 line of code, where movement are shown inside Green contur
+A motion detection With less than 10 line of code, where movement are shown inside Green contour
 
 main-2.py
 --------
